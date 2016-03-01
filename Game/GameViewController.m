@@ -15,6 +15,7 @@
     // create a new scene
     SCNScene *scene = [SCNScene sceneNamed:@"art.scnassets/ship.scn"];
 
+//    hello
     // create and add a camera to the scene
     SCNNode *cameraNode = [SCNNode node];
     cameraNode.camera = [SCNCamera camera];
